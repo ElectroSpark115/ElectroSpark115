@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/electrospark115" target="blank"><img src="https://img.shields.io/twitter/follow/electrospark115?logo=twitter&style=for-the-badge" alt="electrospark115" /></a> </p>
 
-- 🔭 I’m currently working on **The Token Lab**
+- 🔭 I’m currently learning with **Codesmith LLC**
 
 - 🌱 I’m currently learning **React & NextJS**
 
